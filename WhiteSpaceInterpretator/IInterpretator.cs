@@ -1,7 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿/*
+ * @author Ekzaryan Daniil 
+ * @2014
+ * @website http://refwarlock.blogspot.ru 
+ */
 using System.Threading.Tasks;
 
 namespace WhiteSpaceInterpretator

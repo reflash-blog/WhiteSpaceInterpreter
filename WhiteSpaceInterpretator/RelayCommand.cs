@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * @author Ekzaryan Daniil 
+ * @2014
+ * @website http://refwarlock.blogspot.ru 
+ */
+using System;
 using System.Windows.Input;
 
 namespace WhiteSpaceInterpretator

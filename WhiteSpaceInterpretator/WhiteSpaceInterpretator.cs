@@ -1,8 +1,11 @@
-﻿using System;
+﻿/*
+ * @author Ekzaryan Daniil 
+ * @2014
+ * @website http://refwarlock.blogspot.ru 
+ */
+using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 
