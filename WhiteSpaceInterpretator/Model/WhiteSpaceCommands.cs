@@ -3,10 +3,11 @@
  * @2014
  * @website http://refwarlock.blogspot.ru 
  */
+
 using System;
 using System.Collections.Generic;
 
-namespace WhiteSpaceInterpretator
+namespace WhiteSpaceInterpretator.Model
 {
     public class WhiteSpaceCommands
     {

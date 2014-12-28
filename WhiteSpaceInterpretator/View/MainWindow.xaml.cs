@@ -3,11 +3,13 @@
  * @2014
  * @website http://refwarlock.blogspot.ru 
  */
+
 using System.IO;
 using System.Windows;
 using System.Xml;
+using WhiteSpaceInterpretator.ViewModel;
 
-namespace WhiteSpaceInterpretator
+namespace WhiteSpaceInterpretator.View
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml

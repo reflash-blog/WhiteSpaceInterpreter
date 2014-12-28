@@ -3,7 +3,7 @@
  * @2014
  * @website http://refwarlock.blogspot.ru 
  -->
-<Window x:Class="WhiteSpaceInterpretator.MainWindow"
+<Window x:Class="WhiteSpaceInterpretator.View.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:avalonedit="http://icsharpcode.net/sharpdevelop/avalonedit"
@@ -96,7 +96,7 @@
                 <ResizeGrip Opacity="0.75"/>
             </StatusBarItem>
         </StatusBar>
-        <TextBox Text="{Binding Output}" Margin="0,28,10,29" HorizontalAlignment="Right" Width="188"/>
+        <TextBox Text="{Binding Output}" TextWrapping="Wrap" Margin="0,28,10,29" HorizontalAlignment="Right" Width="188"/>
 
     </Grid>
 </Window>

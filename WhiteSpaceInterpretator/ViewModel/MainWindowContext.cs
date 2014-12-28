@@ -1,23 +1,19 @@
 ﻿/*
- * @author Ekzaryan Daniil 
- * @2014
+ * @author Ekzaryan Daniil 2014
  * @website http://refwarlock.blogspot.ru 
  */
-using System;
-using System.Collections.Generic;
+
 using System.ComponentModel;
 using System.IO;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
-using System.Xml;
 using ICSharpCode.AvalonEdit.Document;
 using ICSharpCode.AvalonEdit.Utils;
 using Microsoft.Win32;
+using WhiteSpaceInterpretator.Controller;
 
-namespace WhiteSpaceInterpretator
+namespace WhiteSpaceInterpretator.ViewModel
 {
     class MainWindowContext : INotifyPropertyChanged
     {

@@ -3,9 +3,10 @@
  * @2014
  * @website http://refwarlock.blogspot.ru 
  */
+
 using System.Threading.Tasks;
 
-namespace WhiteSpaceInterpretator
+namespace WhiteSpaceInterpretator.Controller
 {
     interface IInterpretator
     {

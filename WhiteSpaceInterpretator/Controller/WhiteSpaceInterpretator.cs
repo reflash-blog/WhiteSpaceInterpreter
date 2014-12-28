@@ -3,13 +3,16 @@
  * @2014
  * @website http://refwarlock.blogspot.ru 
  */
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using System.Windows;
+using WhiteSpaceInterpretator.Model;
+using WhiteSpaceInterpretator.View;
 
-namespace WhiteSpaceInterpretator
+namespace WhiteSpaceInterpretator.Controller
 {
     public class WhitespaceInterpretator : IInterpretator
     {

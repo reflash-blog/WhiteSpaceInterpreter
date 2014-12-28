@@ -7,7 +7,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace WhiteSpaceInterpretator
+namespace WhiteSpaceInterpretator.Model
 {
     public class WhiteSpaceMemory
     {

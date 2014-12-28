@@ -3,9 +3,10 @@
  * @2014
  * @website http://refwarlock.blogspot.ru 
  */
+
 using System.Windows;
 
-namespace WhiteSpaceInterpretator
+namespace WhiteSpaceInterpretator.View
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml

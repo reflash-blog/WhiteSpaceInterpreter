@@ -3,10 +3,11 @@
  * @2014
  * @website http://refwarlock.blogspot.ru 
  */
+
 using System;
 using System.Windows.Input;
 
-namespace WhiteSpaceInterpretator
+namespace WhiteSpaceInterpretator.ViewModel
 {
     public class RelayCommand : ICommand
     {
